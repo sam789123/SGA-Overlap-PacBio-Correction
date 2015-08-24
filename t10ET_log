@@ -1,0 +1,12 @@
+-------------------------------------
+	prefix:READ.ECOLr
+	thread:1
+	algorithm:4
+	error-rate:0.2
+	identity:0.8
+	min-overlap:45
+	round:1
+-------------------------------------
+Correcting sequencing errors for t10.fa
+Loading READ.ECOLr index for t10.fa
+Error: could not open READ.ECOLr.bwt for read
